@@ -47,6 +47,7 @@
 	/* 
 	* Copyright (c) 2016, Yannis Gravezas All Rights Reserved. Available via the MIT license.
 	*/
+
 	var Clubber = __webpack_require__(1);
 
 	AFRAME.registerSystem("clubbers", {
